@@ -1,48 +1,48 @@
 zh-TW:
   admin:
-   tickets:
+    tickets:
       view: 查看
-      close: 關閉工單
+      close: 關閉案件
       comments_count: 回覆數量
       replies: 回覆
-      open_tickets: 未結束案件
-      closed_tickets: 已結束案件
+      open_tickets: 未結束工單
+      closed_tickets: 已結束工單
     members:
       show:
-        member_title: 用戶資料
+        member_title: 用戶資訊
         actions_title: 操作
-        accounts_title: 帳戶資料
+        accounts_title: 帳戶資訊
         account_versions_title: 帳戶記錄
     dashboard:
       index:
         accounts_title: 帳戶匯總
-        daemons_title: 系統匯總
+        daemons_title: 系統匯款
     documents:
       index:
         new: 新建文檔
     statistic:
-      filter: 過濾
+      filter: 篩選
       summary: 總結
-      click-to-expand: 點擊展開
+      click-to-expand: 點即展開
       members:
         show:
-          count: 用戶數
+          table: 用戶數據結果
       orders:
         show:
           avg: 掛單均價
           sum: 掛單量
-          sum_strike: 被成交量
+          sum_strike: 被成成交量
           count: 掛單數
       trades:
         show:
           count: 成交數
-          volume: 成交價格
-          amount: 成交金額
+          volume: 總量成交
+          amount: 總價成交
           min_price: 最低成交價
           max_price: 最高成交價
           avg_price: 平均成交價
-          amount_fee: 全部手續費
-          volume_fee: 全部手續費
+          amount_fee: 總價手續費
+          volume_fee: 總量手續費
       deposits:
         show:
           count: 總數

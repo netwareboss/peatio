@@ -1,7 +1,7 @@
 zh-TW:
   shared:
     browser:
-      modern: 為了不影響交易體驗，請使用更流行的瀏覽器進行交易，我們向您推薦 <a target='_blank' href='http://www.baidu.com/s?wd=Google+Chrome'>Google Chrome 瀏覽器</a>。
-  pusher:
-    pusher_unavailable: 與服務器通訊異常，
+      modern: 為了不影響交易觀感，請使用更流行的瀏覽器進行交易，我們向您推薦<a target='_blank' href='http://www.baidu.com/s?wd=Google+Chrome'>Google Chrome 瀏覽器</a>。
+    pusher:
+      pusher_unavailable: 與服務器通訊異常，
       refresh: 請刷新頁面重試。
