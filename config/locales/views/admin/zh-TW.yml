@@ -1,5 +1,12 @@
-﻿zh-TW:
+zh-TW:
   admin:
+   tickets:
+      view: 查看
+      close: 關閉工單
+      comments_count: 回覆數量
+      replies: 回覆
+      open_tickets: 未結束案件
+      closed_tickets: 已結束案件
     members:
       show:
         member_title: 用戶資料
@@ -13,25 +20,6 @@
     documents:
       index:
         new: 新建文檔
-    currency_deposits:
-      new:
-        deposit: 儲值
-        accounts_title: 帳戶信息
-      create:
-        success: 儲值成功
-    withdraws:
-      withdraw:
-        member_title: 用戶帳戶資料
-        withdraw_title: 提款請求資料
-      edit:
-        actions_title: 可執行操作
-      show:
-        title: 處理提款
-        actions_title: 可執行操作
-      update:
-        success: 提款已經開始處理
-      destroy:
-        success: 提款已經被駁回
     statistic:
       filter: 過濾
       summary: 總結

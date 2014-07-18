@@ -1,4 +1,4 @@
-﻿zh-TW:
+zh-TW:
   private:
     markets:
       show:
@@ -22,9 +22,12 @@
         bid_panel: 買入%{currency}
         ask_panel: 賣出%{currency}
         price: 價格
+        last_price: 最新價格
         amount: 數量
         total: 金額
         available: 可用
+        price_high: 價格超過最新價格10%
+        price_low: 價格低於最新價格10%
       order_book:
         order_book: 掛單記錄
       market_trades:

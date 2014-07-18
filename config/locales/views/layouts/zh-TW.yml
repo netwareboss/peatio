@@ -1,4 +1,4 @@
-﻿zh-TW:
+zh-TW:
   layouts:
     admin:
       menus:
@@ -12,6 +12,8 @@
             deposits: 儲值管理
             documents: 文件管理
             withdraws: 提款管理
+            proofs: 資產證明管理
+            tickets: 工單管理
           deposits:
             currency: 貨幣充值
     application:
