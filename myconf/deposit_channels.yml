@@ -1,0 +1,17 @@
+- id: 200
+  key: satoshi
+  currency: btc
+  sort_order: 1
+  min_confirm: 1
+  max_confirm: 3
+- id: 400
+  key: bank
+  currency: twd
+  sort_order: 2
+  banks: ["icbc", "cbc", "bc", "bcm", "abc", "cmb", "cmbc", "cncb", "hxb", "cib", "spdb", "bob", "ceb", "sdb", "pab", "gdb"]
+  bank_accounts:
+    -
+      bank: '700'
+      branch: '中華郵政'
+      holder: '莊博淳'
+      account: '01910010531353'
