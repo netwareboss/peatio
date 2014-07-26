@@ -85,6 +85,7 @@ en:
     deposits: Depoists
     withdraws: Withdraws
     statistics: Data Statistics
+    id_documents: Verify Account
 
   footer:
     about: About
@@ -131,8 +132,3 @@ en:
   'yes': 'Yes'
   'no': 'No'
 
-  banks:
-    bc: Bank of China
-    abc: Agriculture Bank of China
-    cbc: Construction Bank of China
-    icbc: Industryand Commercial Bank of China

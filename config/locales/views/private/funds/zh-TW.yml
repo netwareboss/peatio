@@ -2,11 +2,11 @@
   private:
     funds:
       show:
-        cny_format: '0.00'
+        twd_format: '0.00'
         btc_format: '0.00000000'
         account_history: 帳戶歷史記錄
         reason:
-          cny:
+          twd:
             strike_add: 成交賣出
             strike_sub: 成交買入
             deposit: 儲值

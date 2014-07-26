@@ -4,13 +4,13 @@
       index:
         liability-proof: 資產證明
         btc-assets: BTC資產清單
-        cny-assets: TWD資產清單
+        twd-assets: TWD資產清單
         merkle_approach: 了解更多償付能力驗證技術
       liability_tabs:
         verify-btc: 驗證我的BTC資產
-        verify-cny: 驗證我的TWD資產
+        verify-twd: 驗證我的TWD資產
         btc-assets-total: 交易所BTC總資產：
-        cny-assets-total: 交易所TWD總資產：
+        twd-assets-total: 交易所TWD總資產：
       liability_proof:
         title: 資產證明
         intro: 我們將銀行帳戶，比特幣錢包地址，以及用戶存款總額公開以便用戶時刻了解我們的資產狀況；我們提供的數字證明能證明我們提供的存款總額數據是真實的。我們通過技術手段來保證您的資金處於隨時能夠提款的狀態。
@@ -30,7 +30,7 @@
         intro: 查看交易所全部BTC資產清單
         total: BTC總資產
         address: 錢包地址
-      cny_assets:
+      twd_assets:
         title: TWD資產清單
         intro: 查看交易所全部TWD資產清單
         total: TWD總資產

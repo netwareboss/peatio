@@ -3,12 +3,9 @@ zh-TW:
     bank:
       key: 銀行轉帳
       title: 銀行轉帳充值
-      intro: 通過銀行轉帳的方式，從您的銀行帳戶儲值人民幣到您的比特王賬戶。
+      intro: 通過銀行轉帳的方式，從您的銀行帳戶儲值新台幣到您的比特王賬戶。
       latency: 10 分鐘到帳
       transfer: 人工處理
-      receive_fund_holder: 莊博淳
-      receive_fund_uid: 700
-      receive_fund_extra: 0191001053153
       go: 立即儲值
 
   activerecord:
@@ -22,9 +19,6 @@ zh-TW:
         fund_extra_text: 轉帳銀行
         fund_uid: 轉帳帳戶
         holder: 持卡人姓名
-        receive_fund_holder_text: 比特王郵局戶名
-        receive_fund_uid_text: 比特王中華郵政代碼
-        receive_fund_extra_text: 比特王郵局帳號
         member_sn: 個人識別碼
         amount: 儲值金額
         sn: 轉帳備註（必填）
@@ -52,6 +46,11 @@ zh-TW:
           fund_uid: 使用已有銀行帳號或輸入新帳號
           fund_extra: 選擇開戶銀行
           submit: 提交
+        edit:
+          bank: 收款银行
+          branch: 收款开户行
+          holder: 收款账户
+          account: 收款账号
 
   guides:
     private:

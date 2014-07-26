@@ -2,25 +2,25 @@ zh-TW:
   currency:
     satoshi:
       key: BTC
-    renminbi:
+    shitaibi:
       key: TWD
 
     name:
-      cny: 新台幣
       btc: 比特幣
+      twd: 新台幣
     code:
-      cny: TWD
       btc: BTC
+      twd: TWD
     format:
       zero: 'N/A'
-      cny: '0.00'
       btc: '0.0000'
+      twd: '0.00'
     icon-large:
-      cny: <span class='big-currency'>$</span>
       btc: <span class='big-currency'>฿</span>
+      twd: <span class='big-currency'>฿</span>
     icon:
-      cny: <span class='currency'>$</span>
       btc: <span class='currency'>฿</span>
+      twd: <span class='currency'>$</span>
     sum:
       bid: 合计 <span class=bid_totle></span>%{bid_icon}
       ask: 合计 <span class=ask_totle></span>%{bid_icon}

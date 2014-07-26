@@ -11,15 +11,15 @@ zh-TW:
     admin: 管理員
   trade:
     markets: 市場
-    btccny: BTC/TWD
+    btctwd: BTC/TWD
     realtime_price:
       title: 目前價格
     account_balance:
       title: 帳戶餘額
       available_btc: 可用BTC
-      available_cny: 可用TWD
+      available_twd: 可用TWD
       locked_btc: 凍結BTC
-      locked_cny: 凍結TWD
+      locked_twd: 凍結TWD
   gon:
     ask: 賣出
     bid: 買入
@@ -94,6 +94,7 @@ zh-TW:
     deposits: 儲值管理
     withdraws: 提款管理
     statistics: 數據統計
+    id_documents: 實名驗證
 
   footer:
     about: 關於我們
@@ -143,21 +144,3 @@ zh-TW:
   'yes': 是
   'no': 否
 
-  banks:
-    cmbc: 台灣銀行
-    bc:   土地銀行
-    icbc: 合作金庫
-    cbc:  第一銀行
-    abc:  華南銀行
-    cmb:  彰化銀行
-    cmbc: 上海銀行
-    bcm:  台北富邦
-    cncb: 國泰世華
-    hxb:  兆豐銀行
-    cib:  花旗銀行
-    spdb: 高雄銀行
-    bob: 中小企業
-    ceb: 渣打銀行
-    sdb: 中華郵政
-    gdb: 匯豐銀行
-    pab: 台新銀行

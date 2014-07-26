@@ -13,7 +13,7 @@
         go: 立即提款
       new:
         withdraw_btc: BTC提現
-        withdraw_cny: 新台幣提現
+        withdraw_twd: 新台幣提現
       satoshi:
         new:
           balance: '可用BTC餘額: ฿%{balance}'
@@ -36,7 +36,7 @@
           fee: 手續費
           amount: 實際到帳
           sum: 數量
-        cny:
+        twd:
           name: 收款戶名
           address: 銀行帳號
           address_label: 銀行名稱
